@@ -1,17 +1,7 @@
-const lily = {
+Hi, I'm Lily!
 
-  pronouns: "she" | "her",
-  
-  code: [C, Java, JavaScript, TypeScript, HTML, CSS, Python],
-  
-  favorites: [KPOP, unusually grotesque but thought-provoking novels],
-  
-  techCommunities: {
-                member: [Association of Computing Machinery, Girls Who Code]  
-                      },
-                      
- challenge: "Currently focusing on computer networking",
- 
- todo: "Revamp the UCF ACM site"
- 
-}
+Some of the language I'm proficient in are: C, Java, JavaScript, HTML, CSS, and Python.
+
+Favorite: KPOP, unusually grotesque but thought-provoking novels
+Tech Communities: Association for Computing Machinery, Girls Who Code
+Currently focusing on computer networking.
