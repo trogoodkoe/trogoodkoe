@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @trogoodkoe
-- 👀 I’m interested in gaining more front-end development skills!
-- 🌱 I’m currently learning Java and C
-- 📫 Reach me by email: lsvrionis@gmail.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: kpop fanatic 
+
